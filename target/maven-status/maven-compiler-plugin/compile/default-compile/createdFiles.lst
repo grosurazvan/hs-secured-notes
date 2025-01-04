@@ -1,0 +1,4 @@
+com/example/demo/DemoApplication.class
+com/example/demo/dto/StudentDto.class
+com/example/demo/controller/StudentController.class
+com/example/demo/dto/Gender.class
