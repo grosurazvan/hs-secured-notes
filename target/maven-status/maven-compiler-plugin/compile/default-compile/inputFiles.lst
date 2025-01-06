@@ -1,9 +1,0 @@
-/home/razvan/Workspace/Projects/hs-secured-notes/src/main/java/hs/secured/notes/SecuredNotesApplication.java
-/home/razvan/Workspace/Projects/hs-secured-notes/src/main/java/hs/secured/notes/controller/NoteController.java
-/home/razvan/Workspace/Projects/hs-secured-notes/src/main/java/hs/secured/notes/dto/NoteDto.java
-/home/razvan/Workspace/Projects/hs-secured-notes/src/main/java/hs/secured/notes/entity/Note.java
-/home/razvan/Workspace/Projects/hs-secured-notes/src/main/java/hs/secured/notes/mapper/NoteMapper.java
-/home/razvan/Workspace/Projects/hs-secured-notes/src/main/java/hs/secured/notes/repository/NoteRepository.java
-/home/razvan/Workspace/Projects/hs-secured-notes/src/main/java/hs/secured/notes/security/SecurityConfig.java
-/home/razvan/Workspace/Projects/hs-secured-notes/src/main/java/hs/secured/notes/service/NoteService.java
-/home/razvan/Workspace/Projects/hs-secured-notes/src/main/java/hs/secured/notes/service/impl/NoteServiceImpl.java
