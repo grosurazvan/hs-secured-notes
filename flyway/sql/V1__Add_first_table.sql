@@ -1,3 +1,0 @@
-CREATE TABLE TEST(
-    id VARCHAR(2)
-);
